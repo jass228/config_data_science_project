@@ -11,8 +11,6 @@
 ├── configs                      # Config files (models and training hyperparameters)
 │   └── config.yaml
 │
-├── img                          # Images for README
-│
 ├── data
 │   ├── external                 # Data from third party sources.
 │   ├── interim                  # Intermediate data that has been transformed.
@@ -20,6 +18,8 @@
 │   └── raw                      # The original, immutable data dump.
 │
 ├── docs                         # Project documentation.
+│
+├── img                          # Images for README
 │
 ├── models                       # Trained and serialized models.
 │
